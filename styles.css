@@ -1,0 +1,111 @@
+nav ul {
+list-style-type:none;
+text-align:left;
+overflow:hidden;
+padding: 10px;
+background-color: rgb(53, 94, 70);
+display: inline-block;
+font-size: auto;}
+nav ul li {
+display: inline;
+float: left;
+color: black;}
+nav ul li a {
+border: 2px solid black;
+border-radius: 75px;
+margin: 45px;
+padding: 10px; 
+display: inline;
+text-align: left;
+color: antiquewhite;}
+nav ul li :hover{
+background-color: white;
+text-align: left;
+font-size: auto;}
+ul.packages {
+ color: black;
+ list-style-type: disc;
+ padding: 10px;
+ background-color: antiquewhite;
+ font-size: 16px;
+ width: 50%;
+ display: inline-block;
+ text-align: center; 
+ list-style-position: inside;
+} 
+ul li.packages {
+  color: black;
+  margin: 10px 0;
+  padding: 0;
+  list-style-position: inside;
+}
+h1{
+ font-size: 60px;
+ text-align: center;
+ color: black;
+ background-color: rgb(53, 94, 70);}
+
+.logo{
+  width: 150px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: antiquewhite; 
+}
+ h2{
+ text-align: center;
+ font-size: 35px;
+ color: antiquewhite;
+ background-color: rgb(53, 94, 70);}
+ h3{
+  color: black;
+  text-decoration: underline;}
+body {
+  color: antiquewhite;
+  text-align: center;
+  padding-left: 40px;
+  background-color:rgb(53, 94, 70);
+  max-width: 1000px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  padding-bottom: 35px;
+  } 
+
+button {
+  background-color: antiquewhite;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  margin: 10px;
+  font-size: 22px;
+}
+
+ footer {
+  color : black;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: antiquewhite;
+  padding: 10px;
+  text-align: left;
+  z-index: 1000;
+  font-size: 10px;
+}
+.founders {
+  height: 200px;
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: antiquewhite;}
+div.scroll-container {
+  background-color: antiquewhite;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+div.scroll-container img {
+  height: 200px;
+  padding: 10px;
+}

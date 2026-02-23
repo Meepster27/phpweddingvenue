@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+		content="width=device-width, 
+				initial-scale=1.0">
+	<link rel="stylesheet" href="styles.css">
+   <script src="https://kit.fontawesome.com/5f3cbab6f2.js" crossorigin="anonymous"></script>
+   <script data-search-pseudo-elements defer src="/your-path-to-fontawesome/js/fontawesome.js"></script>
+	<title>Vendors - Pine & Co</title>   
+    <nav>
+         <ul>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="about.php">About Us</a><li>
+            <li><a href="Contact.php">Contact info and more</a></li>
+            <li><a href="Calendar.php">Calendar</a></li>
+            <li><a href="Vendors.php">Vendors</a></li>
+         </ul>
+    </nav>
+</head>  
+<h1> Our Vendors!</h1>
+<body>
+<p>Looking for Photography, Catering and other Wedding and Reception Businesses? Check out our Preferred List of Vendors Below!</p>
+<section>Click the icons to be directed to their website!</section>
+<h3>PHOTOGRAPHERS:</h3>
+
+<ul>B. Olson Photography</ul>
+Phone: 812-455-2682
+<button><a  class="fa-solid fa-camera" href= "https://bolsonphotography.pixieset.com/"></a></button>
+<button><a  class="fa-brands fa-instagram" href="https://bolsonphotography.pixieset.com/"></a></button>
+
+<h3>CATERING:</h3>
+
+<ul>LOS BRAVOS CATERING</ul>
+<ul> 812-202-1631
+<button><a class = "fa-solid fa-pepper-hot" href= "https://www.losbravosmexi.com/contact-us"></a></button>
+</ul>
+
+<ul>THE BARREL HOUSE</ul>
+
+<ul>Phone: 812-449-1136
+<button><a  class="fa-solid fa-bowl-food" href= "https://thebarrelhouse.com/#" ></a></button>
+</ul>
+
+<ul>Bauerhaus Catering</ul>
+<ul>Phone: (812) 759-9000.
+ <button><a  class="fa-solid fa-wine-bottle" href = "https://www.thebauerhaus.com/thebauerhaus-event-services/off-site-catering-and-deliveries"></a></button>
+</ul>
+
+<ul>ACROPOLIS Catering</ul>
+<ul>Phone: (270) 860-8214<button><a class="fa-solid fa-building-columns" href=" https://www.acropolisevv.com/"></a></button>
+</ul>
+</body>
+</html>
